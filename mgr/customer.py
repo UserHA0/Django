@@ -1,5 +1,5 @@
-import json
 from django.http import JsonResponse
+import json
 
 from common.models import Customer
 
